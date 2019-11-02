@@ -12,4 +12,4 @@ Web ini dibuat sebagai bahan pembelajaran untuk memanfaatkan konsep template sli
 
 * [Click Here](http://samuel0911.unaux.com/web-iderastacodetx-bookstore/)- IdeRastaCodeTx-Bookstore.
 
-* [Click Here](http://samuel0911.unaux.com/web-iderastacodetx-bookstore/)- Login-Admin-IdeRastaCodeTx-Bookstore.
+* [Click Here](http://samuel0911.unaux.com/web-iderastacodetx-bookstore/admin)- Login-Admin-IdeRastaCodeTx-Bookstore.
